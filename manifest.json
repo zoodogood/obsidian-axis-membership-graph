@@ -1,0 +1,10 @@
+{
+	"id": "axis-membership-graph",
+	"name": "Axis-membership graph",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Displays intermediate notes with membership markers-symbols",
+	"author": "zoodogood",
+	"authorUrl": "https://github.com/zoodogood/obsidian-axis-membership-graph",
+	"isDesktopOnly": false
+}
